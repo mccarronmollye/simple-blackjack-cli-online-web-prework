@@ -55,6 +55,5 @@ def runner
   hit?
   display_card_total
 end
-hit?
-display_card_total# code runner here
+end_game# code runner here
 end
