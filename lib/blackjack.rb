@@ -54,6 +54,7 @@ def runner
   until card_total > 21
   hit?
   display_card_total
-  end_game
-end# code runner here
+end
+hit?
+display_card_total# code runner here
 end
